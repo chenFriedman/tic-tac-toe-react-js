@@ -1,2 +1,2 @@
-# tic-tac-toe-react-js
+# tic-tac-toe-react-ts
 tic tac toe game
